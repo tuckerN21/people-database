@@ -1,11 +1,11 @@
 #ifndef PERSON_H
 #define PERSON_H
-//-----------------------------------------------------------
-// File: person.h
-// Description: Declares the Person class, which holds five 
-//              key details about a notable individual. 
-// Author: Tucker Neikirk
-//-----------------------------------------------------------
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Declare the Person type, which stores five key attributes about a
+         notable individual, along with basic accessors and helpers.
+*******************************************************************************/
 #include <fstream>
 #include <iostream>
 #include <string>
