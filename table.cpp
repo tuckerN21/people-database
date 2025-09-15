@@ -1,3 +1,10 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Implement Table operations: read people from disk, maintain the
+         collection in memory, and provide search/print utilities.
+*******************************************************************************/
+
 #include "table.h"
 
 using namespace std;
