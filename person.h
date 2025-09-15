@@ -1,11 +1,12 @@
-#ifndef PERSON_H
-#define PERSON_H
 /******************************************************************************
 Author: Tucker Neikirk
 Date: August 29, 2025
 Purpose: Declare the Person type, which stores five key attributes about a
          notable individual, along with basic accessors and helpers.
 *******************************************************************************/
+
+#ifndef PERSON_H
+#define PERSON_H
 #include <fstream>
 #include <iostream>
 #include <string>
