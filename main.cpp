@@ -1,3 +1,10 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Run a console program that loads a roster of people from a text file
+         and lets the user browse, print, and search by name or year.
+*******************************************************************************/
+
 #include <iostream>
 #include <fstream>
 #include "table.h"
