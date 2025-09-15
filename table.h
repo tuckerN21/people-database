@@ -1,14 +1,12 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Declare the Table type, a container for Person records that supports
+         loading from file, printing the full set, and field-based searches.
+*******************************************************************************/
+
 #ifndef TABLE_H
 #define TABLE_H
-//-----------------------------------------------------------
-// File: table.h
-// Description: Declares the Table class, which manages an 
-//              array of Person objects. Provides functions 
-//              to search the collection and display results 
-//              about selected individuals. 
-// Author: Tucker Neikirk
-//-----------------------------------------------------------
-
 #include "person.h"
 #include <iostream>
 #include <string>
