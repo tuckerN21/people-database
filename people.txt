@@ -1,3 +1,10 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Stores sample data about notable people (name, birth year, death year,
+         and description) for use in the People Database program.
+*******************************************************************************/
+
 Alan Turing  1912 1954 Defined what is now called a Turing machine and is regarded as a founder of computer science.
 Ada Lovelace  1815 1852 Known as the first computer programmer through her notes on Babbage’s Analytical Engine.
 Donald Knuth  1938 -1 Father of algorithm analysis and author of The Art of Computer Programming.
