@@ -1,0 +1,20 @@
+Alan Turing  1912 1954 Defined what is now called a Turing machine and is regarded as a founder of computer science.
+Ada Lovelace  1815 1852 Known as the first computer programmer through her notes on Babbage’s Analytical Engine.
+Donald Knuth  1938 -1 Father of algorithm analysis and author of The Art of Computer Programming.
+Grace Hopper  1906 1992 Developed the first compiler and popularized the term “debugging.”
+Charles Babbage  1791 1871 Designed the Difference Engine and Analytical Engine, early mechanical computers.
+John Backus  1924 2007 Led the team that created FORTRAN, the first widely used high-level language.
+Edsger Dijkstra  1930 2002 Introduced structured programming and shortest-path algorithms.
+John von Neumann  1903 1957 Created the architecture that underlies most modern computers.
+Barbara Liskov  1939 -1 Developed the Liskov Substitution Principle and contributed to programming languages.
+Vint Cerf  1943 -1 Co-inventor of TCP/IP, often called a “Father of the Internet.”
+Tim Berners-Lee  1955 -1 Invented the World Wide Web, revolutionizing global communication.
+Linus Torvalds  1969 -1 Creator of the Linux operating system kernel.
+Marvin Minsky  1927 2016 Pioneer in artificial intelligence and co-founder of MIT’s AI Lab.
+Margaret Hamilton  1936 -1 Director of software engineering for NASA’s Apollo program.
+Whitfield Diffie  1944 -1 Co-inventor of public key cryptography.
+Seymour Cray  1925 1996 Designed the CRAY-1, considered the first modern supercomputer.
+Bill Gates  1955 -1 Co-founder of Microsoft and central figure in the PC revolution.
+Steve Jobs  1955 2011 Co-founder of Apple and driving force behind the Macintosh, iPhone, and Pixar.
+Sergey Brin  1973 -1 Co-founded Google with Larry Page and shaped modern search engines.
+Mark Zuckerberg  1984 -1 Founder of Facebook and key player in social networking.
