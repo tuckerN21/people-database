@@ -1,10 +1,10 @@
 #ifndef PERSON_H
 #define PERSON_H
 //-----------------------------------------------------------
-// Purpose: Header file for the Person class.
-//          This class is designed to store five pieces of 
-//          information describing a famous person.  
-// Author:  Tucker Neikirk
+// File: person.h
+// Description: Declares the Person class, which holds five 
+//              key details about a notable individual. 
+// Author: Tucker Neikirk
 //-----------------------------------------------------------
 #include <fstream>
 #include <iostream>
