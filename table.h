@@ -1,13 +1,14 @@
 #ifndef TABLE_H
 #define TABLE_H
 //-----------------------------------------------------------
-// Purpose: Header file for the Table class.
-//          This class is designed to store an array of Person
-//          objects that describe a group of famous people.
-//          The search methods locate and print information
-//          about a specified subset of the famous people.
-// Author:  Tucker Neikirk
+// File: table.h
+// Description: Declares the Table class, which manages an 
+//              array of Person objects. Provides functions 
+//              to search the collection and display results 
+//              about selected individuals. 
+// Author: Tucker Neikirk
 //-----------------------------------------------------------
+
 #include "person.h"
 #include <iostream>
 #include <string>
