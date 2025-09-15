@@ -1,3 +1,10 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Define the Person functions declared in person.h, including creation,
+         initialization, and formatted output of a person's data.
+*******************************************************************************/
+
 #include "person.h"
 
 using namespace std;
